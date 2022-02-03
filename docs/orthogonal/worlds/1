@@ -1,0 +1,10 @@
+{
+  'id': 1,
+  'name': "The Forgotten Forest",
+  'abbreviation': "TFF",
+  'description': "The Forgotten Forest: Welcome to the Woods!",
+  'account_contract_addr_functions': [
+    {"addr":"0x521f9C7505005CFA19A8E5786a9c3c9c9F5e6f42", "func":"tokensOfOwner"},
+    {"addr":"0x251b5F14A825C537ff788604eA1b58e49b70726f", "func":"tokensOfOwner"}
+  ]
+}
